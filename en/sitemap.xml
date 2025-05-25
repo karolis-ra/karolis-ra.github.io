@@ -2,74 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.github.karolis-ra.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.github.karolis-ra.io/pt-br/"
+                href="http://localhost:1313/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.github.karolis-ra.io/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://www.github.karolis-ra.io/vgtu/firstpage/</loc>
+    <loc>http://localhost:1313/vgtu/firstpage/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.github.karolis-ra.io/vgtu/test/</loc>
+    <loc>http://localhost:1313/vgtu/test/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.github.karolis-ra.io/vgtu/</loc>
+    <loc>http://localhost:1313/vgtu/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.github.karolis-ra.io/authors/</loc>
+    <loc>http://localhost:1313/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.github.karolis-ra.io/pt-br/authors/"
+                href="http://localhost:1313/pt-br/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.github.karolis-ra.io/authors/"
+                href="http://localhost:1313/authors/"
                 />
   </url><url>
-    <loc>http://www.github.karolis-ra.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.github.karolis-ra.io/pt-br/categories/"
+                href="http://localhost:1313/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.github.karolis-ra.io/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>http://www.github.karolis-ra.io/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.github.karolis-ra.io/pt-br/series/"
+                href="http://localhost:1313/pt-br/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.github.karolis-ra.io/series/"
+                href="http://localhost:1313/series/"
                 />
   </url><url>
-    <loc>http://www.github.karolis-ra.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.github.karolis-ra.io/pt-br/tags/"
+                href="http://localhost:1313/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.github.karolis-ra.io/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url>
 </urlset>

@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>http://www.github.karolis-ra.io/en/sitemap.xml</loc>
-    
-      <lastmod>2025-05-22T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://www.github.karolis-ra.io/pt-br/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.github.karolis-ra.io/</loc>
+    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.github.karolis-ra.io/vgtu/firstpage/</loc>
+    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.github.karolis-ra.io/vgtu/test/</loc>
+    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.github.karolis-ra.io/vgtu/</loc>
+    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.github.karolis-ra.io/authors/</loc>
+  </url><url>
+    <loc>http://www.github.karolis-ra.io/categories/</loc>
+  </url><url>
+    <loc>http://www.github.karolis-ra.io/series/</loc>
+  </url><url>
+    <loc>http://www.github.karolis-ra.io/tags/</loc>
+  </url>
+</urlset>

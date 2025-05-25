@@ -20,7 +20,7 @@
       <link>http://www.github.karolis-ra.io/vgtu/test/</link>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
       <guid>http://www.github.karolis-ra.io/vgtu/test/</guid>
-      <description>&lt;h1 id=&#34;welcome-to-the-test-page&#34;&gt;&#xD;&#xA;  Welcome to the Test Page&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#welcome-to-the-test-page&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;</description>
+      <description>&lt;h1 id=&#34;welcome-to-the-test-page&#34;&gt;&#xD;&#xA;  Welcome to the Test Page&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#welcome-to-the-test-page&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;http://www.github.karolis-ra.io/images/zemelapis.png&#34; alt=&#34;My test image&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
